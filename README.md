@@ -1,2 +1,2 @@
-# WC-Schedule-Delivery
-Delivery scheduler plugin for WooCommerce
+# SBWC Delivery Scheduler
+Delivery scheduler plugin for WooCommerce.
